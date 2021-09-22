@@ -11,5 +11,5 @@ for i in range(2,n):
         mx != list1[i]:
         secondmax=list1[i]
  
-print("Second highest number is : ")
+print("Second highest number is : ",
       str(secondmax))
